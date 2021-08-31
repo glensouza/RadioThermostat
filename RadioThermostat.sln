@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioThermostat.API", "RadioThermostat.API\RadioThermostat.API.csproj", "{BF6A8AD6-ED15-4651-B380-5AB38DBB507A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioThermostat.Web", "RadioThermostat.Web\RadioThermostat.Web.csproj", "{A23B4FB8-B17E-4DDA-841B-0BA6DC6570D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioThermostat.Function", "RadioThermostat.Function\RadioThermostat.Function.csproj", "{F9AA3224-9D69-4490-B297-C5318EC9E68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6A8AD6-ED15-4651-B380-5AB38DBB507A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6A8AD6-ED15-4651-B380-5AB38DBB507A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6A8AD6-ED15-4651-B380-5AB38DBB507A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6A8AD6-ED15-4651-B380-5AB38DBB507A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23B4FB8-B17E-4DDA-841B-0BA6DC6570D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23B4FB8-B17E-4DDA-841B-0BA6DC6570D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23B4FB8-B17E-4DDA-841B-0BA6DC6570D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23B4FB8-B17E-4DDA-841B-0BA6DC6570D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AA3224-9D69-4490-B297-C5318EC9E68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AA3224-9D69-4490-B297-C5318EC9E68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AA3224-9D69-4490-B297-C5318EC9E68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AA3224-9D69-4490-B297-C5318EC9E68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D1BE4C-311F-4A36-881E-AEDFC2DE9956}
+	EndGlobalSection
+EndGlobal
